@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\practise\practise\bin\Debug\practise.exe.config
+C:\Users\ACER\source\repos\practise\practise\bin\Debug\practise.exe
+C:\Users\ACER\source\repos\practise\practise\bin\Debug\practise.pdb
+C:\Users\ACER\source\repos\practise\practise\obj\Debug\practise.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\practise\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\practise\practise\obj\Debug\practise.exe
+C:\Users\ACER\source\repos\practise\practise\obj\Debug\practise.pdb

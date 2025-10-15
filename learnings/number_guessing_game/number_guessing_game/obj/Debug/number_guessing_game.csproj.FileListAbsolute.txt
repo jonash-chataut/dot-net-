@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\number_guessing_game\number_guessing_game\bin\Debug\number_guessing_game.exe.config
+C:\Users\ACER\source\repos\number_guessing_game\number_guessing_game\bin\Debug\number_guessing_game.exe
+C:\Users\ACER\source\repos\number_guessing_game\number_guessing_game\bin\Debug\number_guessing_game.pdb
+C:\Users\ACER\source\repos\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.exe
+C:\Users\ACER\source\repos\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.pdb

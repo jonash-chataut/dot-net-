@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\rock_paper_scissor_game\rock_paper_scissor_game\bin\Debug\rock_paper_scissor_game.exe.config
+C:\Users\ACER\source\repos\rock_paper_scissor_game\rock_paper_scissor_game\bin\Debug\rock_paper_scissor_game.exe
+C:\Users\ACER\source\repos\rock_paper_scissor_game\rock_paper_scissor_game\bin\Debug\rock_paper_scissor_game.pdb
+C:\Users\ACER\source\repos\rock_paper_scissor_game\rock_paper_scissor_game\obj\Debug\rock_paper_scissor_game.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\rock_paper_scissor_game\rock_paper_scissor_game\obj\Debug\rock_paper_scissor_game.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\rock_paper_scissor_game\rock_paper_scissor_game\obj\Debug\rock_paper_scissor_game.exe
+C:\Users\ACER\source\repos\rock_paper_scissor_game\rock_paper_scissor_game\obj\Debug\rock_paper_scissor_game.pdb
