@@ -1,0 +1,7 @@
+C:\skills\dot net\learnings\Classes and oop\Classes and oop\bin\Debug\Classes and oop.exe.config
+C:\skills\dot net\learnings\Classes and oop\Classes and oop\bin\Debug\Classes and oop.exe
+C:\skills\dot net\learnings\Classes and oop\Classes and oop\bin\Debug\Classes and oop.pdb
+C:\skills\dot net\learnings\Classes and oop\Classes and oop\obj\Debug\Classes and oop.csproj.AssemblyReference.cache
+C:\skills\dot net\learnings\Classes and oop\Classes and oop\obj\Debug\Classes and oop.csproj.CoreCompileInputs.cache
+C:\skills\dot net\learnings\Classes and oop\Classes and oop\obj\Debug\Classes and oop.exe
+C:\skills\dot net\learnings\Classes and oop\Classes and oop\obj\Debug\Classes and oop.pdb
