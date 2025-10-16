@@ -1,0 +1,7 @@
+C:\skills\dot net\learnings\methods of csharps\methods of csharps\bin\Debug\methods of csharps.exe.config
+C:\skills\dot net\learnings\methods of csharps\methods of csharps\bin\Debug\methods of csharps.exe
+C:\skills\dot net\learnings\methods of csharps\methods of csharps\bin\Debug\methods of csharps.pdb
+C:\skills\dot net\learnings\methods of csharps\methods of csharps\obj\Debug\methods of csharps.csproj.AssemblyReference.cache
+C:\skills\dot net\learnings\methods of csharps\methods of csharps\obj\Debug\methods of csharps.csproj.CoreCompileInputs.cache
+C:\skills\dot net\learnings\methods of csharps\methods of csharps\obj\Debug\methods of csharps.exe
+C:\skills\dot net\learnings\methods of csharps\methods of csharps\obj\Debug\methods of csharps.pdb
