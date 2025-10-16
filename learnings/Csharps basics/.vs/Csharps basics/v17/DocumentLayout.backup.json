@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skills\\dot net\\learnings\\Csharps basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E9E389-01AA-40B2-A8F7-12C32ADA76D3}|Csharps basics\\Csharps basics.csproj|c:\\skills\\dot net\\learnings\\csharps basics\\csharps basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E9E389-01AA-40B2-A8F7-12C32ADA76D3}|Csharps basics\\Csharps basics.csproj|solutionrelative:csharps basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Csharps basics\\Csharps basics\\Program.cs",
+              "RelativeDocumentMoniker": "Csharps basics\\Program.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Csharps basics\\Csharps basics\\Program.cs*",
+              "RelativeToolTip": "Csharps basics\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:23:14.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

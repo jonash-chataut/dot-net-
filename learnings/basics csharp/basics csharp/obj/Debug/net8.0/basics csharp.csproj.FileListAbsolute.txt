@@ -1,0 +1,15 @@
+C:\skills\dot net\learnings\basics csharp\basics csharp\bin\Debug\net8.0\basics csharp.exe
+C:\skills\dot net\learnings\basics csharp\basics csharp\bin\Debug\net8.0\basics csharp.deps.json
+C:\skills\dot net\learnings\basics csharp\basics csharp\bin\Debug\net8.0\basics csharp.runtimeconfig.json
+C:\skills\dot net\learnings\basics csharp\basics csharp\bin\Debug\net8.0\basics csharp.dll
+C:\skills\dot net\learnings\basics csharp\basics csharp\bin\Debug\net8.0\basics csharp.pdb
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.AssemblyInfoInputs.cache
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.AssemblyInfo.cs
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.csproj.CoreCompileInputs.cache
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.sourcelink.json
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.dll
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\refint\basics csharp.dll
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.pdb
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\basics csharp.genruntimeconfig.cache
+C:\skills\dot net\learnings\basics csharp\basics csharp\obj\Debug\net8.0\ref\basics csharp.dll
