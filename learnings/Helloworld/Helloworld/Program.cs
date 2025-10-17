@@ -16,7 +16,6 @@ namespace Helloworld
             Console.WriteLine("Enter the number of tangaries you want to have: ");
             string tan = Console.ReadLine();
             Console.WriteLine("Since for the series i am giving you 7 more thala for a reason i.e " + (Convert.ToInt32(tan) + 7));
-
         }
     }
 }

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9B757F-2E78-4EF4-968E-28CDC1559BD6}|Fight to death 2p\\Fight to death 2p.csproj|c:\\skills\\dot net\\learnings\\games\\fight to death 2p\\fight to death 2p\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9B757F-2E78-4EF4-968E-28CDC1559BD6}|Fight to death 2p\\Fight to death 2p.csproj|solutionrelative:fight to death 2p\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9B757F-2E78-4EF4-968E-28CDC1559BD6}|Fight to death 2p\\Fight to death 2p.csproj|C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\fight to death 2p\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9B757F-2E78-4EF4-968E-28CDC1559BD6}|Fight to death 2p\\Fight to death 2p.csproj|solutionrelative:fight to death 2p\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9B757F-2E78-4EF4-968E-28CDC1559BD6}|Fight to death 2p\\Fight to death 2p.csproj|C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\fight to death 2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9B757F-2E78-4EF4-968E-28CDC1559BD6}|Fight to death 2p\\Fight to death 2p.csproj|solutionrelative:fight to death 2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\Fight to death 2p\\Battle.cs",
+              "RelativeDocumentMoniker": "Fight to death 2p\\Battle.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\Fight to death 2p\\Battle.cs",
+              "RelativeToolTip": "Fight to death 2p\\Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:58:53.962Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\Fight to death 2p\\Warrior.cs",
+              "RelativeDocumentMoniker": "Fight to death 2p\\Warrior.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\Fight to death 2p\\Warrior.cs",
+              "RelativeToolTip": "Fight to death 2p\\Warrior.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:58:36.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\Fight to death 2p\\Program.cs",
+              "RelativeDocumentMoniker": "Fight to death 2p\\Program.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Fight to death 2p\\Fight to death 2p\\Program.cs",
+              "RelativeToolTip": "Fight to death 2p\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:57:24.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

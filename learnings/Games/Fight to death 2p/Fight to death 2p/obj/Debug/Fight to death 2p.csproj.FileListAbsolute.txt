@@ -1,0 +1,7 @@
+C:\skills\dot net\learnings\Games\Fight to death 2p\Fight to death 2p\bin\Debug\Fight to death 2p.exe.config
+C:\skills\dot net\learnings\Games\Fight to death 2p\Fight to death 2p\bin\Debug\Fight to death 2p.exe
+C:\skills\dot net\learnings\Games\Fight to death 2p\Fight to death 2p\bin\Debug\Fight to death 2p.pdb
+C:\skills\dot net\learnings\Games\Fight to death 2p\Fight to death 2p\obj\Debug\Fight to death 2p.csproj.AssemblyReference.cache
+C:\skills\dot net\learnings\Games\Fight to death 2p\Fight to death 2p\obj\Debug\Fight to death 2p.csproj.CoreCompileInputs.cache
+C:\skills\dot net\learnings\Games\Fight to death 2p\Fight to death 2p\obj\Debug\Fight to death 2p.exe
+C:\skills\dot net\learnings\Games\Fight to death 2p\Fight to death 2p\obj\Debug\Fight to death 2p.pdb
