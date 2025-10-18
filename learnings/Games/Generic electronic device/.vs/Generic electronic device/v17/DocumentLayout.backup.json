@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|c:\\skills\\dot net\\learnings\\games\\generic electronic device\\generic electronic device\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|solutionrelative:generic electronic device\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|c:\\skills\\dot net\\learnings\\games\\generic electronic device\\generic electronic device\\tvremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|solutionrelative:generic electronic device\\tvremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|c:\\skills\\dot net\\learnings\\games\\generic electronic device\\generic electronic device\\powerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|solutionrelative:generic electronic device\\powerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|c:\\skills\\dot net\\learnings\\games\\generic electronic device\\generic electronic device\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|solutionrelative:generic electronic device\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|c:\\skills\\dot net\\learnings\\games\\generic electronic device\\generic electronic device\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|solutionrelative:generic electronic device\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|c:\\skills\\dot net\\learnings\\games\\generic electronic device\\generic electronic device\\ielectronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E00894D-5DA1-4BF8-8256-4B4E8D39B881}|Generic electronic device\\Generic electronic device.csproj|solutionrelative:generic electronic device\\ielectronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TVRemote.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\TVRemote.cs",
+              "RelativeDocumentMoniker": "Generic electronic device\\TVRemote.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\TVRemote.cs",
+              "RelativeToolTip": "Generic electronic device\\TVRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:04:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerBUtton.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\PowerBUtton.cs",
+              "RelativeDocumentMoniker": "Generic electronic device\\PowerBUtton.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\PowerBUtton.cs",
+              "RelativeToolTip": "Generic electronic device\\PowerBUtton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:56:59.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\ICommand.cs",
+              "RelativeDocumentMoniker": "Generic electronic device\\ICommand.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\ICommand.cs",
+              "RelativeToolTip": "Generic electronic device\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:55:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Television.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\Television.cs",
+              "RelativeDocumentMoniker": "Generic electronic device\\Television.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\Television.cs*",
+              "RelativeToolTip": "Generic electronic device\\Television.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:29:59.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IElectronicDevice.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\IElectronicDevice.cs",
+              "RelativeDocumentMoniker": "Generic electronic device\\IElectronicDevice.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\IElectronicDevice.cs*",
+              "RelativeToolTip": "Generic electronic device\\IElectronicDevice.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:26:40.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\Program.cs",
+              "RelativeDocumentMoniker": "Generic electronic device\\Program.cs",
+              "ToolTip": "C:\\skills\\dot net\\learnings\\Games\\Generic electronic device\\Generic electronic device\\Program.cs",
+              "RelativeToolTip": "Generic electronic device\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:25:51.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

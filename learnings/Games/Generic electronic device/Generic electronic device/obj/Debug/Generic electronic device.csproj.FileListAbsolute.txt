@@ -1,0 +1,7 @@
+C:\skills\dot net\learnings\Games\Generic electronic device\Generic electronic device\obj\Debug\Generic electronic device.csproj.AssemblyReference.cache
+C:\skills\dot net\learnings\Games\Generic electronic device\Generic electronic device\obj\Debug\Generic electronic device.csproj.CoreCompileInputs.cache
+C:\skills\dot net\learnings\Games\Generic electronic device\Generic electronic device\bin\Debug\Generic electronic device.exe.config
+C:\skills\dot net\learnings\Games\Generic electronic device\Generic electronic device\bin\Debug\Generic electronic device.exe
+C:\skills\dot net\learnings\Games\Generic electronic device\Generic electronic device\bin\Debug\Generic electronic device.pdb
+C:\skills\dot net\learnings\Games\Generic electronic device\Generic electronic device\obj\Debug\Generic electronic device.exe
+C:\skills\dot net\learnings\Games\Generic electronic device\Generic electronic device\obj\Debug\Generic electronic device.pdb
