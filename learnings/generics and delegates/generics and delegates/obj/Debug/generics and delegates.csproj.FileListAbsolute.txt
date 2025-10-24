@@ -1,0 +1,7 @@
+C:\skills\dot net\learnings\Games\generics and delegates\generics and delegates\bin\Debug\generics and delegates.exe.config
+C:\skills\dot net\learnings\Games\generics and delegates\generics and delegates\bin\Debug\generics and delegates.exe
+C:\skills\dot net\learnings\Games\generics and delegates\generics and delegates\bin\Debug\generics and delegates.pdb
+C:\skills\dot net\learnings\Games\generics and delegates\generics and delegates\obj\Debug\generics and delegates.csproj.AssemblyReference.cache
+C:\skills\dot net\learnings\Games\generics and delegates\generics and delegates\obj\Debug\generics and delegates.csproj.CoreCompileInputs.cache
+C:\skills\dot net\learnings\Games\generics and delegates\generics and delegates\obj\Debug\generics and delegates.exe
+C:\skills\dot net\learnings\Games\generics and delegates\generics and delegates\obj\Debug\generics and delegates.pdb
