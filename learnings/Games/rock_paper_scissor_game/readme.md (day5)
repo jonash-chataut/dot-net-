@@ -1,0 +1,17 @@
+🧩 Day 5: Rock, Paper, Scissors Game in C# ✊📄✂️
+
+Today, I learned how to make a simple yet fun game that interacts with the user and responds differently each time!
+
+Key Concepts I Learned:
+
+Random Number Generation: Used the Random class to make the computer choose Rock, Paper, or Scissor randomly (rnd.Next(0, 3)).
+
+User Input Handling: Took the player’s choice using Console.ReadLine() and converted it to uppercase to make comparisons easier.
+
+Decision-Making (if–else): Used multiple if-else statements to compare the user’s and computer’s choices and decide who wins or if it’s a draw.
+
+Loops for Replay: Implemented a while loop with a boolean (playagain) to let the player play multiple rounds until they decide to stop.
+
+Game Logic & Flow Control: Designed the structure so the program randomly responds, gives feedback, and asks if the user wants to play again.
+
+This helped me understand how randomization, loops, and conditional logic can be combined to create an interactive and enjoyable console game experience.
